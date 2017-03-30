@@ -17,7 +17,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F45F5C1D-F297-455E-B107-4FA39276674F}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
@@ -41,4 +41,5 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C5676461-8BB7-4F2A-AC5B-6AA4CD148440} = {F45F5C1D-F297-455E-B107-4FA39276674F}
 	EndGlobalSection
+	
 EndGlobal
